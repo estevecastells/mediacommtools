@@ -43,6 +43,7 @@ Archives and lists:
 - [A dataset with political datasets](https://github.com/erikgahner/PolData) - Cabinets, citizens, constitutions, political institutions, parties and politicians, democracy, economics, elections, international relations, media, policy, political elites (.xlsx, .csv, .Rdata, .sav).
 - [Consortium of European Social Science Data Archives (CESSDA)](http://cessda.net/)
 - [Inter-university Consortium for Political and Social Research (ICPSR)](http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp)
+- [Invokely](https://invokely.ai/) - REST API and MCP server for official statistics, with a source citation on every value. Coverage includes U.S. states and counties, EU regions, Spanish municipalities, and World Bank country data (500 calls per month on the free plan).
 - [Open Stats Lab](https://sites.trinity.edu/osl) data from psychological studies that is intended to be used in education.
 - [Awesome Public Datasets](https://github.com/vnijs/awesome-public-datasets) - awesome list of (large-scale) public datasets on the Internet (on-going collection).
 - [Common Crawl](http://commoncrawl.org/) - download a copy of the web, several billion web pages (250+ terabyte of data), updated regularly.
